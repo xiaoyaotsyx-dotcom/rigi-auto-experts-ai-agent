@@ -1,6 +1,9 @@
 <p align="center">
-  <strong>Auto Experts · 自动化 AI 专家</strong>
+  <strong>Rigi Auto Experts · 自动化 AI 专家</strong>
 </p>
+
+# Rigi Auto Experts — AI Agent That Controls Your Browser, Fills Forms & Posts While You Sleep
+# 人设驱动 AI 专家 — 操控浏览器、填表单、发社媒，在你睡觉时替你干活
 
 <p align="center">
   <strong>Not just another chatbot. A persona-driven AI expert that controls your browser,<br>
@@ -10,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xiaoyaotsyx-dotcom/auto-experts/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPLv3-blue"></a>
-  <a href="#"><img src="https://img.shields.io/github/stars/xiaoyaotsyx-dotcom/auto-experts"></a>
+  <a href="https://github.com/xiaoyaotsyx-dotcom/rigi-auto-experts-ai-agent/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPLv3-blue"></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/xiaoyaotsyx-dotcom/rigi-auto-experts-ai-agent"></a>
 </p>
 
 ---
@@ -149,6 +152,17 @@ cp -r template/ your-expert/
 |---|---|
 | Personal, non-commercial · 个人非商业 | AGPLv3 ✅ Free · 免费 |
 | Any business / commercial use · 任何企业/商用 | [Contact us · 联系我们](mailto:Walter.x@qq.com) |
+
+---
+
+---
+
+## Related Repos · 相关仓库
+
+| Repo · 仓库 | What it does · 做什么 |
+|------|------|
+| 🏠 [**Rigi AI Commons**](https://github.com/xiaoyaotsyx-dotcom/Rigi-AI-Commons) | Shared CDP infrastructure + browser automation core · 共用 CDP 基础设施 + 浏览器自动化核心 |
+| 🛒 [**AliExpress Auto Listing**](https://github.com/xiaoyaotsyx-dotcom/aliexpress-auto-listing-skill) | 1688 sourcing → AliExpress publish, fully automated · 1688采集→速卖通发布，全自动 |
 
 ---
 
